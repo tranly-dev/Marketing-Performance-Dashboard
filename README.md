@@ -69,37 +69,37 @@ The dashboard allows year-by-year performance tracking, but the current analysis
 
 ## Yearly Performance Overview
 
-### 2017 Performance Overview
+### 2018 Performance Overview
 
 This dashboard section presents the overall performance metrics for the year **2017**, including impressions, clicks, campaign costs, and user engagement indicators.  
 It provides a baseline view to understand how the marketing campaign performed during this period.
 
 **Insight:**  
-The 2017 campaign established strong visibility with high impressions and solid engagement metrics. These results provide a useful benchmark for evaluating performance improvements in subsequent years.
+The 2018 campaign established strong visibility with high impressions and solid engagement metrics. These results provide a useful benchmark for evaluating performance improvements in subsequent years.
 
-![2017 Overview](images/overview-2.png)
-
----
-
-### 2018 Performance Overview
-
-This section highlights the marketing campaign performance for **2018**, allowing comparison with the previous year in terms of impressions, clicks, and engagement.
-
-**Insight:**  
-The 2018 results indicate continued campaign activity with stable engagement levels. By comparing this year with 2017, analysts can evaluate whether the campaign maintained or improved its effectiveness.
-
-![2018 Overview](images/overview-3.png)
+![2018 Overview](images/overview-2.png)
 
 ---
 
 ### 2019 Performance Overview
 
+This section highlights the marketing campaign performance for **2018**, allowing comparison with the previous year in terms of impressions, clicks, and engagement.
+
+**Insight:**  
+The 2019 results indicate continued campaign activity with stable engagement levels. By comparing this year with 2017, analysts can evaluate whether the campaign maintained or improved its effectiveness.
+
+![2019 Overview](images/overview-3.png)
+
+---
+
+### 2020 Performance Overview
+
 This dashboard view summarizes the campaign performance for **2019**, providing insight into the overall trend of marketing performance across multiple years.
 
 **Insight:**  
-The 2019 data helps identify long-term patterns in campaign performance, including changes in impressions, user engagement, and marketing costs. This information is valuable for strategic planning and budget optimization.
+The 2020 data helps identify long-term patterns in campaign performance, including changes in impressions, user engagement, and marketing costs. This information is valuable for strategic planning and budget optimization.
 
-![2019 Overview](images/overview-4.png)
+![2020 Overview](images/overview-4.png)
 
 ---
 
