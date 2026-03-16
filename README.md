@@ -15,7 +15,8 @@ A data analytics dashboard for tracking and evaluating marketing performance acr
 **Insight:**  
 The campaign generated a large number of impressions, indicating strong visibility. However, the absence of last year’s CPM data limits year-over-year comparison.
 
-![Overview Dashboard](overview-1.png)
+![Overview Dashboard](images/overview-1.png)
+
 
 ---
 
